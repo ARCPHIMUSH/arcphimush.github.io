@@ -70,7 +70,7 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img: \img\index1.webp
+index_img: /img/index1.webp
 
 # The banner image of archive page
 archive_img:
@@ -97,7 +97,7 @@ footer_img: #B6F0F8
 # Website Background
 # Can set it to color, image URL or an array containing colors and/or image URLs
 # If an array is provided, a random background will be selected from the array on each load
-background: \img\converted-1.webp
+background: /img/converted-1.webp
 
 cover:
   # Disable the cover or not
