@@ -12,4 +12,6 @@
   position: absolute;
   left: 0;
   top: 0;
+  width: max-content;
+  white-space: nowrap;
 }
