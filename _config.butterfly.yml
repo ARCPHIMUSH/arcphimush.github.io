@@ -19,11 +19,9 @@ nav:
 
 menu:
   首页: / || fas fa-home
-  关于: /about/ || fas fa-user
-  说说: /essay/ || fas fa-comment-dots
-  影视: /movies/ || fas fa-video
+  随笔: /categories/随笔/ || fas fa-feather-alt
   书籍: /books/ || fas fa-book
-  归档: /archives/ || fas fa-archive
+  关于: /about/ || fas fa-user
   
 
 # --------------------------------------
@@ -90,6 +88,7 @@ category_img:
 # Format:
 #  - category name: xxxxx
 category_per_img:
+  随笔: /img/suibi.webp
 
 # The background image of footer
 footer_img: #B6F0F8
