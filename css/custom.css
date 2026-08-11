@@ -1,0 +1,15 @@
+/* ===== 随笔页自定义样式 ===== */
+/* 隐藏「分类 - 随笔」标签，换成干净的页面标题 */
+#category .article-sort-title {
+  visibility: hidden;
+  position: relative;
+  font-size: 1.4em;
+  font-weight: bold;
+}
+#category .article-sort-title::after {
+  content: '随笔';
+  visibility: visible;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
