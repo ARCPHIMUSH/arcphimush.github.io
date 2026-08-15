@@ -5,4 +5,5 @@ db.json
 .DS_Store
 Thumbs.db
 *.log
+.hermes/
 .vercel
